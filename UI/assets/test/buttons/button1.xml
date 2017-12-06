@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400" extention="Button">
+  <displayList>
+    <graph id="n1_fjg6" name="n1" xy="150,140" size="100,100" type="eclipse"/>
+  </displayList>
+  <Button downEffect="dark" downEffectValue="0.80"/>
+</component>

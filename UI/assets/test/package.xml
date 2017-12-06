@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="96fv4x1q" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="fjg60" name="main.xml" path="/" exported="true"/>
+    <component id="fjg61" name="button1.xml" path="/buttons/"/>
+  </resources>
+  <publish name="test" path="H:\Project\LuaFramework\LuaFramework_FairyGUI\Assets\LuaFramework\Resources\UI\test"/>
+</packageDescription>
