@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2720224827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4349fd5e86c4cd1816a980fd2bdbcf84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/test/test.bytes
+- Assets/Resources/UI/test/test@sprites.bytes
+Dependencies: []
